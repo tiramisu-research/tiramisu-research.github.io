@@ -1,0 +1,168 @@
+@font-face {
+    font-family: Maiandra;
+    src: url("Maiandra.ttf");
+}
+
+body {
+    /* Background settings */
+    background-color: #2B1815;
+
+    /* Display settings */
+    overflow-x: hidden;
+
+    /* Font settings */
+    color: #CCCCCC;
+    font-family: Maiandra;
+
+    /* Proportions */
+    margin: 0;
+    padding: 4vh 0 0 0;
+    width: 100%;
+}
+
+.card {
+    /* Backgroud settings */
+    background-color: #8C564B;
+    
+    /* Border settings */
+    border-radius: 10px;
+
+    /* Proportions */
+    padding: 2vh 2vw;
+    margin: 0 auto 4vh auto;
+    width: 90%;
+}
+
+.card h1 {font-size: 2.5em;}
+
+.card .banner {
+    /* Border settings */
+    border: 0.125em solid #2B1815;
+    border-radius: 20px;
+
+    /* Display settings */
+    display: block;
+
+    /* Proportions */
+    margin: 4vh auto 0 auto;
+    width: 90%;
+    max-width: 90%;
+}
+
+.card .license {
+    max-width: 7%;
+}
+
+.card .button1 {
+    /* Background settings */
+    background-color: #6A3429;
+    
+    /* Border settings */
+    border: 0.125em solid #2B1815;
+    border-radius: 20px;
+
+    /* Display settings */
+    display: block;
+
+    /* Font settings */
+    font-family: Maiandra;
+    font-size: 1.25em;
+    color: #CCCCCC;
+
+    /* Proportions */
+    height: 100%;
+    margin: 2vh auto 4vh auto;
+    padding: 2vh 2vw;
+    width: 90%;
+}
+
+.card .button1:hover {
+    /* Hover settings */
+    background-color: #481207;
+    border: 0.125em solid #090603;
+    cursor: pointer;
+}
+
+.card .a1 {
+    /* Font settings */
+    color: #CCCCCC;
+    font-size: 1.25em;
+    text-decoration: none;
+}
+
+.card .a1:hover {
+    /* Hover settings */
+    color: #AAAAAA;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card .a2 {
+    /* Font settings */
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+.card .a3 {
+    /* Font settings */
+    color: #CCCCCC;
+    text-decoration: underline;
+}
+
+.card .a2:hover, .a3:hover {
+    /* Hover settings */
+    color: #AAAAAA;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card h2 {
+    margin: 4vh 0 2vh 0}
+
+.card ul li {
+    line-height: 150%;
+}
+
+.card table {
+    /* Border settings */
+    border: none;
+
+    /* Proportions */
+    margin-bottom: 2vh;
+}
+
+.card embed {
+    /* Display settings */
+    display: block;
+
+    /* Proportions */
+    height: 80vh;
+    margin: 2vh auto;
+    width: 80%;
+}
+
+.footer {
+    /* Backgroud settings */
+    background-color: #1A0704;
+
+    /* Font settings */
+    color: #CCCCCC;
+    font-family: Maiandra;
+    font-size: 0.75em;
+    text-align: right;
+    
+    /* Proportions */
+    height: 100%;
+    margin: 0;
+    padding: 2vh 2vw;
+    max-width: 100%;
+}
+
+.footer a {color: #CCCCCC}
+
+.footer a:hover {
+    /* Hover settings */
+    color: #AAAAAA;
+    cursor: pointer;
+    text-decoration: underline;
+}
