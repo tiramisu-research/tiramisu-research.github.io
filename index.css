@@ -5,13 +5,13 @@
 
 body {
     /* Background settings */
-    background-color: #2B1815;
+    background-color: #BE7B59;
 
     /* Display settings */
     overflow-x: hidden;
 
     /* Font settings */
-    color: #CCCCCC;
+    color: #FFF6F2;
     font-family: Maiandra;
 
     /* Proportions */
@@ -22,7 +22,7 @@ body {
 
 .card {
     /* Backgroud settings */
-    background-color: #8C564B;
+    background-color: #2F1C14;
     
     /* Border settings */
     border-radius: 10px;
@@ -37,7 +37,7 @@ body {
 
 .card .banner {
     /* Border settings */
-    border: 0.125em solid #2B1815;
+    border: 0.125em solid #090603;
     border-radius: 20px;
 
     /* Display settings */
@@ -53,7 +53,7 @@ body {
     max-width: 7%;
 }
 
-.card .button1 {
+.card button {
     /* Background settings */
     background-color: #6A3429;
     
@@ -67,7 +67,7 @@ body {
     /* Font settings */
     font-family: Maiandra;
     font-size: 1.25em;
-    color: #CCCCCC;
+    color: #FFF6F2;
 
     /* Proportions */
     height: 100%;
@@ -76,7 +76,7 @@ body {
     width: 90%;
 }
 
-.card .button1:hover {
+.card button:hover {
     /* Hover settings */
     background-color: #481207;
     border: 0.125em solid #090603;
@@ -85,36 +85,38 @@ body {
 
 .card .a1 {
     /* Font settings */
-    color: #CCCCCC;
+    color: #FFF6F2;
     font-size: 1.25em;
     text-decoration: none;
 }
 
 .card .a1:hover {
     /* Hover settings */
-    color: #AAAAAA;
+    color: #DDD4D0;
     cursor: pointer;
     text-decoration: underline;
 }
 
 .card .a2 {
     /* Font settings */
-    color: #CCCCCC;
+    color: #FFF6F2;
     text-decoration: none;
 }
 
 .card .a3 {
     /* Font settings */
-    color: #CCCCCC;
+    color: #FFF6F2;
     text-decoration: underline;
 }
 
 .card .a2:hover, .a3:hover {
     /* Hover settings */
-    color: #AAAAAA;
+    color: #DDD4D0;
     cursor: pointer;
     text-decoration: underline;
 }
+
+.card .a1:visited .a2:visited, .a3:visited {color: #FFF6F2;}
 
 .card h2 {
     margin: 4vh 0 2vh 0}
@@ -146,7 +148,7 @@ body {
     background-color: #1A0704;
 
     /* Font settings */
-    color: #CCCCCC;
+    color: #FFF6F2;
     font-family: Maiandra;
     font-size: 0.75em;
     text-align: right;
@@ -158,11 +160,11 @@ body {
     max-width: 100%;
 }
 
-.footer a {color: #CCCCCC}
+.footer a {color: #FFF6F2}
 
 .footer a:hover {
     /* Hover settings */
-    color: #AAAAAA;
+    color: #DDD4D0;
     cursor: pointer;
     text-decoration: underline;
 }
