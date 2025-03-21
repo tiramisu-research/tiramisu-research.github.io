@@ -133,7 +133,7 @@ body {
     margin-bottom: 2vh;
 }
 
-.card embed {
+.card iframe {
     /* Display settings */
     display: block;
 
