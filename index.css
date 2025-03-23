@@ -50,7 +50,7 @@ body {
 }
 
 .card .license {
-    max-width: 7%;
+    width: 10%;
 }
 
 .card button {
@@ -122,7 +122,7 @@ body {
     margin: 4vh 0 2vh 0}
 
 .card ul li {
-    line-height: 150%;
+    line-height: 200%;
 }
 
 .card table {
