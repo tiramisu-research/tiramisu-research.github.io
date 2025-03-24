@@ -118,12 +118,9 @@ body {
 
 .card .a1:visited .a2:visited, .a3:visited {color: #FFF6F2;}
 
-.card h2 {
-    margin: 4vh 0 2vh 0}
+.card h3 {margin: 4vh 0 2vh 0}
 
-.card ul li {
-    line-height: 200%;
-}
+.card ul li {line-height: 200%;}
 
 .card table {
     /* Border settings */
