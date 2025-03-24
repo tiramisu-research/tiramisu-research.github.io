@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /tmp/
+
+Sitemap: https://tiramisu-research.github.io/sitemap.xml
