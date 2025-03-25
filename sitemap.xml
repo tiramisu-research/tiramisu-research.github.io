@@ -1,14 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <!-- Ice Cream Sales Prediction Based on Environment Temperature using Linear Regression -->
         <loc>https://tiramisu-research.github.io/articles/art0001.html</loc>
         <lastmod>2025-03-16</lastmod>
     </url>
     <url>
+        <!-- Power Creep Analysis on Genshin Impact using Correlation-Based Approach -->
         <loc>https://tiramisu-research.github.io/articles/art0002.html</loc>
         <lastmod>2025-03-21</lastmod>
     </url>
     <url>
-        <loc>https://tiramisu-research.github.io/articles/lec0001.html</loc>
+        <!-- Lecture notes: Soldering -->
+        <loc>https://tiramisu-research.github.io/lectures/lec0001.html</loc>
         <lastmod>2025-03-22</lastmod>
     </url>
 </urlset>
